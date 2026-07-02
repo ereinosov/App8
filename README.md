@@ -132,7 +132,7 @@ Al iniciar, la aplicación centra el mapa en modo satelital sobre las coordenada
    ```xml
    <meta-data
        android:name="com.google.android.geo.API_KEY"
-       android:value="TU_API_KEY_AQUI" />
+       android:value=" " />
    ```
 
 1. Sincronizar Gradle desde **File → Sync Project with Gradle Files**.
